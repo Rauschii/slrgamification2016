@@ -1,6 +1,7 @@
 # Gamification and Learning Environments 
 Protocol for a Systematic Literature Review please cite as:
-Maria Rauschenberger, Andreas Willems, Menno Ternieden, & Jörg Thomaschewski. (2018, May 23). Gamification and Learning Environments — Protocol for a Systematic Literature Review (Pre-Release) (Version V1.1). Zenodo. http://doi.org/10.5281/zenodo.1251887
+V1.3 Maria Rauschenberger, Andreas Willems, Menno Ternieden, & Jörg Thomaschewski. (2018, May 23). Gamification and Learning Environments — Protocol for the Systematic Literature Review (Version V1.3). Journal of Interactive Learning Research. Zenodo. http://doi.org/10.5281/zenodo.3257277
+V1.1 Maria Rauschenberger, Andreas Willems, Menno Ternieden, & Jörg Thomaschewski. (2018, May 23). Gamification and Learning Environments — Protocol for a Systematic Literature Review (Pre-Release) (Version V1.1). Zenodo. http://doi.org/10.5281/zenodo.1251887
 
 ## This is the supplement of the paper: 
 Rauschenberger, M., Willems, A. , Ternieden, M. &amp; Thomaschewski, J. (2018). Towards the use of gamification frameworks in learning environments. Jl. of Interactive Learning Research,. (Accepted)
